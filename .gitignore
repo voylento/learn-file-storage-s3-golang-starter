@@ -3,3 +3,6 @@ out
 .env
 assets/
 samples/
+.DS_Store
+AWSCLIV2.pkg
+learn-file-storage-s3-golang-starter
